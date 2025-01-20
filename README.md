@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabzaw
+- 👋 Hi, I’m Gabriel Jesus
 - 👀 I’m interested in Front-End Dev.
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
 - 📫 How to reach me gabslj1@gmail.com
